@@ -23,5 +23,6 @@ public class MBGTest {
 		myBatisGenerator.generate(null);
 		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+		System.out.println("dddddddddddddddddddddddddddddddddd");
 	}
 }
