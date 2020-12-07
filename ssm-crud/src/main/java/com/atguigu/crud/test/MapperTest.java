@@ -66,6 +66,7 @@ public class MapperTest {
 		System.out.println("批量完成");
 		System.out.println("hello world..................................");
 		System.out.println("批量完成。。。。。。。。。。。。。。。。。。。。");
+		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 		System.out.println("ccccccccccccccccc");
 	}

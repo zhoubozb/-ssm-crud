@@ -21,6 +21,7 @@ public class MBGTest {
 		MyBatisGenerator myBatisGenerator = new MyBatisGenerator(config,
 				callback, warnings);
 		myBatisGenerator.generate(null);
+		System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 		System.out.println("ccccccccccccccccc");
 	}
